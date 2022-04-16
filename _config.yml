@@ -61,7 +61,12 @@ plugins:
 author:
   name   : "Sarah Jean McPeek"
   avatar : "/assets/images/Sarah Headshot Amusci.jpg"
-  bio    : "I'm an evolutionary community ecologist. Exploring toxic plants, pollinating beetles, and all things weird and wild."
+  bio    : "I'm an evolutionary community ecologist. Currently a PhD candidate
+            at the University of Virginia exploring interactions among toxic
+            nectar-producing plants, nectar-feeding pollinating beetles, 
+            and all things weird and wild. I'm also an impassioned science
+            communicator and educator."
+            
   links:
     - label: "Email"
       icon: "fa fa-envelope-open"
