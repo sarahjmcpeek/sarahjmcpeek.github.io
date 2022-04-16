@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /sarahjmcpeek_cv/
+title: "CV"
 header:
   image: sarahjmcpeek.github.io/assets/images/MapleFlats.jpg
 ---
