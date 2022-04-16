@@ -7,3 +7,5 @@ main:
     url: /tags/
   - title: "Research"
     url: /research/
+  - title: "CV"
+    url:/CV/
