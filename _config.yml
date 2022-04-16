@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   projects, my podcast and work with ASN grads, my CV, and more.
 twitter_username: sarahjmcpeek
 github_username: sarahjmcpeek
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: sunrise # aqua
 search: true
 
 # Build settings
