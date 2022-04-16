@@ -62,13 +62,20 @@ author:
   avatar : "/assets/images/Sarah Headshot Amusci.jpg"
   bio    : "I'm an evolutionary community ecologist. Exploring toxic plants, pollinating beetles, and all things weird and wild."
   links:
+    - label: "Email"
+      icon: "fa fa-envelope-open"
+      url: "mailto:sjm8dj@virginia.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sarahjmcpeek"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sarahjmcpeek"
-
+    -label: "Podcast"
+      icon: "fa fa-podcast"
+      url: "https://open.spotify.com/show/0kSpWoi81kEbsMjcAco8WR"
+      
+    
 footer:
   links:
     - label: "Twitter"
