@@ -71,7 +71,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sarahjmcpeek"
-    -label: "Podcast"
+    - label: "Podcast"
       icon: "fa fa-podcast"
       url: "https://open.spotify.com/show/0kSpWoi81kEbsMjcAco8WR"
       
