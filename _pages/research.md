@@ -7,6 +7,17 @@ toc: true
 toc_label: "Projects"
 toc_icon: "cog"
 toc_sticky: true
+
+gallery:
+  - url: http://sarahjmcpeek.github.io/neurotoxic_nectar/
+    image_path: /assets/images/Nectar of the gods.jpg"
+    alt: "<i>Amianthium</i> produces toxic nectar!"
+    title: "<i>Amianthium</i> produces toxic nectar!"
+  - url: http://sarahjmcpeek.github.io/pollinator_interactions/
+    image_path: /assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg
+    alt: "<i>Strangalepta abbreviata</i> pollinates flowers as it forages."
+    title: "<i>Strangalepta abbreviata</i> pollinates flowers as it forages."
+{% include gallery caption="Click on the images to learn more about each research area." %}
 ---
 
 I am fascinated by how creatures shape each other's traits, alter each other's environments, and ultimately, affect each other's evolutionary histories. In particular, I explore these processes in communities of plants their antagonistic and mutualistic forager species.
@@ -35,13 +46,4 @@ The evolution of mutualism has been a challenging subject for evolutionary theor
 
 My empirical research focuses on the wonderfully weird and toxic wildflower, <i>Amianthium muscaetoxicum</i> and its community of pollinating beetle foragers.
 
-gallery:
-  - url: http://sarahjmcpeek.github.io/neurotoxic_nectar/
-    image_path: /assets/images/Nectar of the gods.jpg"
-    alt: "<i>Amianthium</i> produces toxic nectar!"
-    title: "<i>Amianthium</i> produces toxic nectar!"
-  - url: http://sarahjmcpeek.github.io/pollinator_interactions/
-    image_path: /assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg
-    alt: "<i>Strangalepta abbreviata</i> pollinates flowers as it forages."
-    title: "<i>Strangalepta abbreviata</i> pollinates flowers as it forages."
-{% include gallery caption="Click on the images to learn more about each research area." %}
+
