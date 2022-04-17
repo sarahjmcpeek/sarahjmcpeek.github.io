@@ -13,7 +13,7 @@ I am fascinated by how creatures shape each other's traits, alter each other's e
 
 # Theory of eco-evolutionary resource dynamics among plants, pollinators, and herbivores
 
-Wouldn't it be fantastic to precisely manipulate aspects of the environment and measure the joint outcomes for population dynamics and trait evolution in a whole community? This is where theory becomes a useful tool for large-scale natural experimentation. By precisely manipulating parameters defining species behavior, physiology, or ecology, we can explore integrated outcomes of ecological evolutionary change in whole communities.
+Wouldn't it be fantastic to precisely manipulate aspects of the environment and measure the joint outcomes for population dynamics and trait evolution in a whole community? This is where theory becomes a useful tool for large-scale natural experimentation. By precisely manipulating parameters defining species behavior, physiology, or ecology, we can explore integrated ecological and evolutionary processes in whole communities, in a matter of minutes.
 
 ## Recent work in this area:
 
