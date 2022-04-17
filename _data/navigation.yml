@@ -7,9 +7,5 @@ main:
     url: /tags/
   - title: "Research"
     url: /research/
-      - title: "Evolution of Neurotoxic Nectar
-        url: /neurotoxic_nectar/
-      - title: "Plant-pollinator interactions"
-        url: /pollinator_interactions/
   - title: "CV"
     url: https://sarahjmcpeek.github.io/assets/SJM_CV_2022.pdf
