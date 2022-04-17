@@ -3,7 +3,6 @@ permalink: /research/
 title: "Research Areas"
 header:
   overlay-image: 
-classes: wide
 toc: true
 toc_label: "Projects"
 ---
