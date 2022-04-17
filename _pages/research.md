@@ -4,11 +4,13 @@ title: "Research Areas"
 header:
   overlay-image: 
 classes: wide
+toc: true
+toc_label: "Projects"
 ---
 
 ### I am fascinated by how creatures shape each other's traits, alter each other's environments, and ultimately, affect each other's evolutionary histories. In particular, I explore these processes in communities of plants their antagonistic and mutualistic forager species.
 
-## Theory of eco-evolutionary resource dynamics among plants, pollinators, and herbivores
+# Theory of eco-evolutionary resource dynamics among plants, pollinators, and herbivores
 
 Wouldn't it be fantastic to precisely manipulate aspects of the environment and measure the joint outcomes for population dynamics and trait evolution in a whole community? This is where theory becomes a useful tool for large-scale natural experimentation. By precisely manipulating parameters defining species behavior, physiology, or ecology, we can explore integrated outcomes of ecological evolutionary change in whole communities.
 
