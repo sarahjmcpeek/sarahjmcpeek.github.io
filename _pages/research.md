@@ -7,7 +7,7 @@ toc: true
 toc_label: "Projects"
 ---
 
-### I am fascinated by how creatures shape each other's traits, alter each other's environments, and ultimately, affect each other's evolutionary histories. In particular, I explore these processes in communities of plants their antagonistic and mutualistic forager species.
+I am fascinated by how creatures shape each other's traits, alter each other's environments, and ultimately, affect each other's evolutionary histories. In particular, I explore these processes in communities of plants their antagonistic and mutualistic forager species.
 
 # Theory of eco-evolutionary resource dynamics among plants, pollinators, and herbivores
 
