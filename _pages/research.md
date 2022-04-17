@@ -25,7 +25,7 @@ Can a pollinator foster the coexistence of two competing plant species? Our pape
 
 [McPeek, S. J., Bronstein, J. L., & McPeek, M. A. (2021). The Evolution of Resource Provisioning in Pollination Mutualisms. American Naturalist. 198(4): 441-459.](https://doi.org/10.1086/715746)
 
-The evolution of mutualism has been a challenging subject for evolutionary theory. How could one species evolve via natural selection for the benefit of another? In our paper in <i> American Naturalist</i> we develop a theory of eco-evolutionary dynamics in a nectar-producing plant's interaction with a nectar-foraging pollinator. Our work demonstrates how the positive effects of nectar on pollinator foraging rates and pollinator population growth select for the evolution of increased nectar provisioning under a wide range of ecological scenarios.
+The evolution of mutualism has been a challenging subject for evolutionary theory. How could one species evolve via natural selection for the benefit of another? In our paper in <i> American Naturalist</i>, we develop a theory of eco-evolutionary dynamics in a nectar-producing plant's interaction with a nectar-foraging pollinator. Our work demonstrates how the positive effects of nectar on pollinator foraging rates and pollinator population growth select for the evolution of increased nectar provisioning under a wide range of ecological scenarios.
 
 # Natural selection on nectar and toxin traits in Amianthium muscaetoxicum
 
