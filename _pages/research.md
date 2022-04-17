@@ -35,8 +35,13 @@ The evolution of mutualism has been a challenging subject for evolutionary theor
 
 My empirical research focuses on the wonderfully weird and toxic wildflower, <i>Amianthium muscaetoxicum</i> and its community of pollinating beetle foragers.
 
-<figure class="half">
-    <a href="/assets/images/Nectar of the gods.jpg"><img src="/assets/images/Nectar of the gods.jpg"></a>
-    <a href="/assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg"><img src="/assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg"></a>
-  <figcaption><i>Amianthium</i> produces neurotoxic nectar!    <i>Strangalepta abbreviata</i> pollinates flowers as it forages.</figcaption>
-</figure>
+gallery:
+  - url: http://sarahjmcpeek.github.io/neurotoxic_nectar/
+    image_path: /assets/images/Nectar of the gods.jpg"
+    alt: "<i>Amianthium</i> produces toxic nectar!"
+    title: "<i>Amianthium</i> produces toxic nectar!"
+  - url: http://sarahjmcpeek.github.io/pollinator_interactions/
+    image_path: /assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg
+    alt: "<i>Strangalepta abbreviata</i> pollinates flowers as it forages."
+    title: "<i>Strangalepta abbreviata</i> pollinates flowers as it forages."
+{% include gallery caption="Click on the images to learn more about each research area." %}
