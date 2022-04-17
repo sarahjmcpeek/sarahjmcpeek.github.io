@@ -5,6 +5,8 @@ header:
   overlay-image: 
 toc: true
 toc_label: "Projects"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 I am fascinated by how creatures shape each other's traits, alter each other's environments, and ultimately, affect each other's evolutionary histories. In particular, I explore these processes in communities of plants their antagonistic and mutualistic forager species.
