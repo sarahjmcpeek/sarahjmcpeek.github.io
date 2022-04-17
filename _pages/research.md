@@ -34,3 +34,9 @@ The evolution of mutualism has been a challenging subject for evolutionary theor
 # Natural selection on nectar and toxin traits in <i>Amianthium muscaetoxicum</i>
 
 My empirical research focuses on the wonderfully weird and toxic wildflower, <i>Amianthium muscaetoxicum</i> and its community of pollinating beetle foragers.
+
+<figure class="half">
+    <a href="/assets/images/Nectar of the gods.jpg"><img src="/assets/images/Nectar of the gods.jpg"></a>
+    <a href="/assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg"><img src="/assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg"></a>
+  <figcaption><i>Amianthium muscaetoxicum and friends</i>.</figcaption>
+</figure>
