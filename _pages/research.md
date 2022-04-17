@@ -38,5 +38,5 @@ My empirical research focuses on the wonderfully weird and toxic wildflower, <i>
 <figure class="half">
     <a href="/assets/images/Nectar of the gods.jpg"><img src="/assets/images/Nectar of the gods.jpg"></a>
     <a href="/assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg"><img src="/assets/images/A_muscaetoxicum with S_abbreviata_sq.jpg"></a>
-  <figcaption><i>Amianthium muscaetoxicum and friends</i>.</figcaption>
+  <figcaption><i>Amianthium</i> produces neurotoxic nectar!    <i>Strangalepta abbreviata</i> pollinates flowers as it forages.</figcaption>
 </figure>
