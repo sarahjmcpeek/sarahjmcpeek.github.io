@@ -31,6 +31,6 @@ Can a pollinator foster the coexistence of two competing plant species? Our pape
 
 The evolution of mutualism has been a challenging subject for evolutionary theory. How could one species evolve via natural selection for the benefit of another? In our paper in <i> American Naturalist</i>, we develop a theory of eco-evolutionary dynamics in a nectar-producing plant's interaction with a nectar-foraging pollinator. Our work demonstrates how the positive effects of nectar on pollinator foraging rates and pollinator population growth select for the evolution of increased nectar provisioning under a wide range of ecological scenarios.
 
-# Natural selection on nectar and toxin traits in Amianthium muscaetoxicum
+# Natural selection on nectar and toxin traits in <i>Amianthium muscaetoxicum</i>
 
 My empirical research focuses on the wonderfully weird and toxic wildflower, <i>Amianthium muscaetoxicum</i> and its community of pollinating beetle foragers.
